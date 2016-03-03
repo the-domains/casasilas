@@ -1,0 +1,28 @@
+name: casasilas
+favicon: null
+layout_spectrum: 0.6707236901856959
+typography_spectrum: 0.1505455686710775
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.06315452232956886
+  lightness: 0.8150793227832764
+  saturation: 0.9513356708921492
+  rhythmicContrast: 0.779171327361837
+purpose: []
