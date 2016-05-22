@@ -1,7 +1,7 @@
 name: casasilas
 favicon: null
-layout_spectrum: 0.6707236901856959
-typography_spectrum: 0.1505455686710775
+layout_spectrum: 0.22992
+typography_spectrum: 0.99096
 title: Casa Silas B B Granada Nicaragua
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.06315452232956886
+    - '#fcf4d9'
+    - '#000000'
+    - '#71d1ff'
+    - '#016a92'
+    - '#a00f00'
+  brandStrength: 0.5
   lightness: 0.8150793227832764
   saturation: 0.9513356708921492
   rhythmicContrast: 0.779171327361837
