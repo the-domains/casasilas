@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Casa Silas B B Granada Nicaragua]]></title>
         <description><![CDATA[Casa Silas B B Granada Nicaragua]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/casasilas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 21:17:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 22 May 2016 21:24:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/casasilas/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>happenings in Granada</p>]]></description>
+            <link>https://thegrid.ai/casasilas/happenings-in-granada/index.html</link>
+            <guid isPermaLink="false">14e15b20-da43-4790-a3a8-ed680918c66d</guid>
+            <pubDate>Sun, 22 May 2016 21:24:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8d43c77-40da-444a-8f81-780f708ab086.png">]]></description>
-            <link>undefinedd383c3c2-f10e-4ecd-843d-e19bae19e9c3/index.html</link>
+            <link>https://thegrid.ai/casasilas/d383c3c2-f10e-4ecd-843d-e19bae19e9c3/index.html</link>
             <guid isPermaLink="false">d383c3c2-f10e-4ecd-843d-e19bae19e9c3</guid>
             <pubDate>Sun, 22 May 2016 21:16:27 GMT</pubDate>
         </item>
