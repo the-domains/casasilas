@@ -4,8 +4,15 @@
         <description><![CDATA[Casa Silas B B Granada Nicaragua]]></description>
         <link>https://thegrid.ai/casasilas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 21:29:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2016 21:31:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/casasilas/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Reservations</p>]]></description>
+            <link>https://thegrid.ai/casasilas/reservations/index.html</link>
+            <guid isPermaLink="false">185b3794-bb7c-4057-89ee-bf7da286fb58</guid>
+            <pubDate>Sun, 22 May 2016 21:31:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>TripAdvisor</p>]]></description>
